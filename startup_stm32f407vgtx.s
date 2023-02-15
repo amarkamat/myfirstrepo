@@ -13,6 +13,7 @@
 /*.fpu softvfp*/
 .thumb
 
+/* modified*/
 .global g_pfnVectors
 .global Default_Handler
 
