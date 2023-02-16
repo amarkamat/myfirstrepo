@@ -24,6 +24,8 @@
 ** diff test
 ** <h2><center>&copy; COPYRIGHT(c) 2019 STMicroelectronics</center></h2>
 **
+branch test
+
 ** Redistribution and use in source and binary forms, with or without modification,
 ** are permitted provided that the following conditions are met:
 **   1. Redistributions of source code must retain the above copyright notice,
