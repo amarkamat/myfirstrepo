@@ -21,6 +21,8 @@ branching test
 
 changes for push to remote demo
 
+new remote local demo
+
 /* start address for the initialization values of the .data section.
 defined in linker script */
 .word _sidata
