@@ -29,6 +29,7 @@ defined in linker script */
 /* end address for the .bss section. defined in linker script */
 .word _ebss
 
+diff tool setup
 
 /**
  * @brief  This is the code that gets called when the processor first
